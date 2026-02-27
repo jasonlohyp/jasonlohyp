@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jason Loh 👋
 
-<!--
-**jasonlohyp/jasonlohyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager by day, builder by night.
+Currently exploring the intersection of AI and autonomous agents.
 
-Here are some ideas to get you started:
+## 🔨 What I'm building
+- 🇸🇪 Swedish Tutor Agent — AI language tutor powered by Gemini API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python • Gemini API • Google Cloud Platform • BigQuery
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/jasonloh)
