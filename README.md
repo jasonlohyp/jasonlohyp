@@ -10,4 +10,4 @@ Currently exploring the intersection of AI and autonomous agents.
 Python • Gemini API • Google Cloud Platform • BigQuery
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/jasonloh)
+[LinkedIn](https://www.linkedin.com/in/jasonlohyp)
