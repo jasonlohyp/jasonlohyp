@@ -10,4 +10,6 @@ Currently exploring the intersection of AI and autonomous agents.
 Python • Gemini API • Google Cloud Platform • BigQuery
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/jasonlohyp)
+<a href="https://www.linkedin.com/in/jasonlohyp" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
