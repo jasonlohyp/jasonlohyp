@@ -5,8 +5,8 @@ Currently exploring the intersection of AI, autonomous agents, and platform engi
 
 ## 🔨 What I'm building
 
-- [Swedish Tutor Agent](https://github.com/jasonlohyp/swedish-tutor-agent) — AI language tutor powered by Gemini API with CEFR vocabulary quiz
 - [GCP Security Agent](https://github.com/jasonlohyp/gcp-security-agent) — Agentic Cloud Run security scanner with 6-tier risk classification and automated remediation, powered by Gemini 2.5 Flash on Vertex AI
+- [Swedish Tutor Agent](https://github.com/jasonlohyp/swedish-tutor-agent) — AI language tutor powered by Gemini API with CEFR vocabulary quiz
 - [Terraform Modules](https://github.com/jasonlohyp/terraform-modules) — Reusable GCP infrastructure modules. E.g. Deploy any containerised app to Cloud Run with a single module call
 
 ## 🛠️ Tech Stack
