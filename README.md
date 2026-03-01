@@ -8,4 +8,3 @@
 
 ---
 ###### `// currently exploring ai & automation`
-![visitors](https://komarev.com/ghpvc/?username=jasonlohyp&color=grey&style=flat-square&label=views)
